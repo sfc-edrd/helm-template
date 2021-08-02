@@ -9,8 +9,7 @@ image:
     nginx
   tag:
     alpine
-  pullPolicy:
-    "ifNotPresent"
+  pullPolicy: ifNotPresent
 
 resources:
   requests:
