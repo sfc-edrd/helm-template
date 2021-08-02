@@ -10,7 +10,7 @@ image:
   tag:
     alpine
   pullPolicy:
-    ifNotPresent
+    "ifNotPresent"
 
 resources:
   requests:
