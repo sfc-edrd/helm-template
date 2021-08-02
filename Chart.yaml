@@ -1,0 +1,7 @@
+apiVersion: v1
+name: nginx-deployment
+description: A sample nginx-deployment
+keywords:
+  - nginx
+  - udacity
+
