@@ -4,4 +4,4 @@ description: A sample nginx-deployment
 keywords:
   - nginx
   - udacity
-
+version: "1.0.0"
